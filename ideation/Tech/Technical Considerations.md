@@ -10,6 +10,8 @@ Ideally, any third-party services or technologies that are used will have [gradu
 - [[Email]]
 - [[Hosting]]
 - [[Languages and Frameworks]]
+- [[Mailing Address Validation]]
 - [[Licensing]]
+- [[Runtime Metrics]]
 - [[SMS]]
 - [[Two Factor Auth]]

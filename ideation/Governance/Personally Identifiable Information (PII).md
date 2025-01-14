@@ -1,0 +1,3 @@
+Broadly defined as any information about a user that may personally identify them. 
+
+The nature of the proposed platform requires collection and storage of each user's name, email address, phone number, and mailing address. This information needs to be stored in a safe manner that is compliant with all Canadian laws. Ideally, each user controls which other users can see this data, this data is encrypted at rest, and users have a means of closing their accounts, at which time this data is purged from active [[Datastores]].

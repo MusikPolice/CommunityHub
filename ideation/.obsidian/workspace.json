@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "69f7ee671db5a5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "359413bfc7835843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eeda1fe4ad102b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Governance/Registration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Registration"
+            }
+          },
+          {
+            "id": "45ad5a03d90b3588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5051c2e7b8483720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc00fda89dc68ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3c44e54bd07e5c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "379fa7c0acd02a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df366463d4503d46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7ef0258651d38ae5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "792ea3081252c4f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6873a84643d236a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4974283297f79b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b0a05bf9568c37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design/Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Resources"
+            }
+          },
+          {
+            "id": "8e6bb1a336d65e2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Design/Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Resources"
+            }
+          },
+          {
+            "id": "e5aec69b3a09bbc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fd0be5447dc00bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Community Hub.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Community Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45ad5a03d90b3588",
+  "lastOpenFiles": [
+    "Governance/Registration.md",
+    "Tech/Crawlers.md",
+    "Design/Resources.md",
+    "Design/Neighbourhoods.md",
+    "Tech/Technical Considerations.md",
+    "Tech/Two Factor Auth.md",
+    "Tech/Authentication.md",
+    "Governance/Governance.md",
+    "Governance/Trust Score.md",
+    "Revenue/Letter Mail.md",
+    "Design/Accessibility.md",
+    "Governance/Trust and Safety.md",
+    "Revenue/Operating Costs.md",
+    "Tech/SMS.md",
+    "Tech/Email.md",
+    "Tech/Licensing.md",
+    "Design/Design.md",
+    "Revenue/Revenue.md",
+    "Community Hub.md",
+    "[WCAG.md",
+    "().md",
+    "Design/Inspiration.md",
+    "Tech/API.md",
+    "Tech/Languages and Frameworks.md",
+    "Tech/Hosting.md",
+    "Revenue",
+    "Governance",
+    "Tech",
+    "Design"
+  ]
+}

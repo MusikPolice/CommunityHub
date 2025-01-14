@@ -1,0 +1,1 @@
+The platform needs the ability to send emails to users for account verification and notifications.

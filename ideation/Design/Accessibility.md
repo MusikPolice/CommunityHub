@@ -1,0 +1,3 @@
+This platform has to be available to all users, including those who struggle to navigate the web. [The W3C Accessibility Guidelines v3](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/) is probably a good north star, even if achieving all of its recommendations will remain a work in progress for some time.
+
+[Kitchener's Census and Demographic Hub](https://kitchener-census-and-demographics-hub-1-kitchenergis.hub.arcgis.com/) estimates that over 10,500 citizens do not speak English or French at home. Adding support for some of the other languages that residents use would be ideal, although that comes with [[Trust and Safety]] considerations.

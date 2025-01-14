@@ -1,0 +1,1 @@
+Users should be able to protect their accounts with two factor auth.

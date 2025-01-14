@@ -1,0 +1,2 @@
+## Hometown Hub
+The City of Hamilton's [Economic Development Office](https://investinhamilton.ca/) and and the [Hamilton Rising](https://hamiltonrising.com/) newsletter collaborated on [Hometown Hub](https://hometownhub.ca/), a glossy, expensive looking website that promotes arts, events, and businesses in Hamilton. There's no feedback, chat, or discussion mechanism, but I do like the styling and the obsession with making local feel cool and interesting.

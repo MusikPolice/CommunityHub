@@ -1,0 +1,3 @@
+The platform is subdivided into neighbourhoods that are modelled after subforums or subreddits. All discussions on the platform are visible to the open web, but users must be [registered](Registration) and [authenticated](Authentication) before they can contribute to a discussion. 
+
+All registered users can contribute to discussions at the city level. The registration process establishes the neighborhood in which the user resides, granting them the ability to participate in discussions at their neighborhood level.

@@ -1,0 +1,1 @@
+The platform may need the ability to send text messages as a part of the account verification flow, and as a form of [[Two Factor Auth]].
